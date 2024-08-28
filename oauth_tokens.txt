@@ -1,0 +1,5 @@
+format: oauth channelid channelname
+example:
+asd123asd123asd123asd123asd123 123123123 twitch1
+asd123asd123asd123asd123asd123 123123123 twitch2
+asd123asd123asd123asd123asd123 123123123 twitch3
